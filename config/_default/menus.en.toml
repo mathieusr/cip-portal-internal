@@ -1,0 +1,6 @@
+## doc menu
+[[docs]]
+  name = "Socgen"
+  weight = 20
+  identifier = "socgen"
+  url = "/socgen/"
